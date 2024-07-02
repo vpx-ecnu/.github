@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-Here is the official repo for the Visual Perception+X group at ECNU.
+This is the official repository for the Visual Perception+X (VPX) group, led by Prof. [Yang Li](ihpdep.github.io), within the School of Computer Science and Technology at East China Normal University (ECNU). Our research focuses on 3D vision, robotics, and neural rendering, which are fundamental technologies in cutting-edge fields such as the metaverse and embodied intelligence. We are committed to advancing the technological frontiers in these areas, striving towards a better future enhanced by AI technology.
+
+For the full publication, please check our [Google Scholar](https://scholar.google.com/citations?user=N1ZDSHYAAAAJ).
+
+If you are interested in what exactly work we are currently working on, please check our [Bilibili](https://space.bilibili.com/487404760).
 
 <!--
 
